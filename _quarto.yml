@@ -1,0 +1,18 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - Swati_Jha_CV.pdf
+
+website:
+  title: "Dr. Swati S. Jha"
+  navbar:
+    background: primary
+    left:
+      - text: "About"
+        href: index.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
