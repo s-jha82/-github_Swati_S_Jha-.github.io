@@ -1,0 +1,44 @@
+---
+title: "Dr. Swati S. Jha"
+
+about:
+  template: jolla
+  image: "S-jhaProfile.PNG"
+  image-width: "150px"
+  image-shape: round
+  links:
+    - icon: linkedin
+      text: "LinkedIn"
+      href: "https://www.linkedin.com/in/dr-swati-s-jha-24828bsj"
+    - icon: envelope
+      text: "Email"
+      href: "mailto:swati.s.jha01@gmail.com"
+    - icon: file-earmark-pdf
+      text: "Download CV"
+      href: "CV.pdf"        
+
+format:
+  html:
+    toc: false
+---
+
+::: {#about-block}
+:::
+
+
+
+[Download CV](CV.pdf)
+
+
+# Welcome to my website!
+
+I am a General Physician with a Master's in Healthcare Administration from the University of North Carolina, Charlotte. Currently, pursuing my Master's in the Clinical Research Scholars Program at Case Western Reserve University. I intend to combine my clinical expertise as a general physician with training in healthcare management and ongoing clinical research education to create meaningful improvements in patient care. 
+
+Outside of the curricular work, I like to indulge in multicultural experiences through music, art, and food, and I also enjoy learning new languages.
+
+
+I invite you to explore my website and learn more about my work.
+
+Please feel free to [contact me](mailto:ssj82@case.edu) if you have any questions or would like to discuss potential projects.
+
+
